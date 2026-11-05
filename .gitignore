@@ -1,0 +1,5 @@
+*.docx
+*.class
+*.tmp
+docx_staging/
+staging_*/
